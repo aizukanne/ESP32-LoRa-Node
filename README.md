@@ -1,6 +1,10 @@
 # ESP32-LoRa-Node
 <i>(The full CAD project can be cloned from https://easyeda.com/aizukanne/smartnode-esp32.)</i>
 
+<p align="center">
+  <img src="https://github.com/aizukanne/ESP32-LoRa-Node/blob/master/PCB%20Files/PCB_ESP32-Board-PCB_20190414233719.png" alt="24-pin Header"/>
+</p>
+
 This is an LoRa node, powered by the ESP32 WROVER-B microcontroller. The wrover-b has built in 4MB SPI flash and 8MB PSRAM. The LoRa module is an RFM95W. The design has an onboard 868MHz antenna with 5dBi gain. There is an external 32.768 kHz crystal connected between GPIO32 and GPIO33 to act as RTC sleep clock. The board is designed to be used for production ready solutions where code has been tested and verified rather than where you have to frequently upload new code. However if using Micropython. this will not be an issue.
 
 **Header And Pins**
