@@ -1,5 +1,5 @@
 # ESP32-LoRa-Node
-<i>(The full CAD project can be cloned from https://easyeda.com/aizukanne/smartnode-esp32.)</i>
+<i>(The full CAD project is online at https://easyeda.com/aizukanne/smartnode-esp32.)</i>
 
 <p align="center">
   <img src="https://github.com/aizukanne/ESP32-LoRa-Node/blob/master/PCB%20Files/PCB_ESP32-Board-PCB_20190414233719.png" alt="24-pin Header"/>
